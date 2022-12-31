@@ -1,0 +1,13 @@
+{
+  "name": "PARAM-CHECK",
+  "short_name": "PARAM-CHECK",
+  "description": "URLのパラメータに不備が無いかチェックします。 Check the URL parameters for any deficiencies.",
+  "version": "1.0",
+  "icons": {"128": "icons/icon.png"},
+  "manifest_version": 3,
+  "action": {
+    "default_icon": "icons/icon.png",
+    "default_title": "PARAM-CHECK",
+    "default_popup": "src/browser_action/browser_action.html"
+  }
+}
